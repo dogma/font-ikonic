@@ -1,5 +1,5 @@
 hn ikonic true type icon set
 
-!./sample.png!
+!https://github.com/dogma/font-ikonic/blob/master/sample.png?raw=true!
 
 Stylesheet coming soon.
